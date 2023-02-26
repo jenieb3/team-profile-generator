@@ -141,7 +141,7 @@ const promptManager = () => {
         } else {
           const html = render(teamMembers);
           //to generate HTML
-        fs.writeFile('output/team.html', html, (err) => {
+        fs.writeFile('src/output/team.html', html, (err) => {
             if (err) throw err;
             console.log(`The HTML has been generated and saved to ${outputPath}.`);
           });
