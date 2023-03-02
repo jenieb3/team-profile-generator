@@ -1,0 +1,19 @@
+.jumbotron {
+    background-color: burlywood;
+    background-image: url(./images/team-background.png);
+    color: black;
+
+}
+
+.container {
+    flex-direction: row;
+    flex-wrap: wrap;
+        
+
+}
+
+.card-header {
+    background-color: rgb(239, 180, 180);
+}
+
+
