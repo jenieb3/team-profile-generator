@@ -50,6 +50,4 @@
 
 
  ## Video
- [Team Generator Video Demo](https://drive.google.com/file/d/1TpNyNN9XvbGQpWGFOeMH3v_m8xdxIjao/view?usp=share_link)
-
-  
+ [Team Generator Video Demo](https://drive.google.com/file/d/1TpNyNN9XvbGQpWGFOeMH3v_m8xdxIjao/view?usp=share_link)  
