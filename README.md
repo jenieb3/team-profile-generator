@@ -48,4 +48,8 @@
  ![Screenshot](./src/output/images/Terminal-questions.png)
  ![Screenshot](./src/output/images/team-page.png) 
 
+
+ ## Video
+ [Team Generator Video Demo](https://drive.google.com/file/d/1TpNyNN9XvbGQpWGFOeMH3v_m8xdxIjao/view?usp=share_link)
+
   
